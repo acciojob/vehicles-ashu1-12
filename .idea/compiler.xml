@@ -11,5 +11,8 @@
         <module name="vehicles-driver-code" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vehicles-ashu1-12" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
